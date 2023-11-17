@@ -9,13 +9,17 @@ Folien & Übungen
 * Fr, 01.12., 15:30-18:45 - Thema: Git #2
 * Fr, 08.12., 15:30-18:45 - Thema: Maven
 * Fr, 15.12., 15:30-18:45 - Thema: Prüfung
-* Fr, TBD   , 15:45-19:00 - Thema: Prüfung
+* Mo, 18.12., 16:00-19:15 - Thema: Prüfung
 
 ## Prüfungstermine
 ### Fr, 15.12, 15:30-18:45
-<Themen>
-### TBD, 15:30-18:45
-<Themen>
+* Open-Source
+* "Thema"
+* Scrum
+
+### Mo, 18.12, 16:00-19:15
+* Blockchain
+* Kubernetes
 
 ### Abgabe der Präsentationsmaterialien:
 * Link in Github Issue oder per mail: christian.heller (at) sap.com
