@@ -12,7 +12,7 @@ Folien & Übungen
 * Mo, 18.12., 16:00-19:15 - Thema: Prüfung
 
 ## Prüfungstermine
-### Fr, 15.12, 15:30-18:45
+### Di, 19.12, 8:30-12:00
 * Open-Source
 * Moderne Webentwicklung
 * Scrum
